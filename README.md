@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563eb&height=180&section=header&text=Hackrband&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-### 💻 Software • Engineering • Technology
 
 Welcome to my GitHub. All of my presented projects are for educational purposes only.
 ---
@@ -32,9 +31,7 @@ Welcome to my GitHub. All of my presented projects are for educational purposes 
 
 ## 📈 GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=hackrband&show_icons=true&hide_border=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackrband&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
+[View my repositories →](https://github.com/hackrband?tab=repositories)
 
 ---
 
