@@ -1,6 +1,6 @@
-<div align="center">
+Hackrband
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563eb&height=160&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563eb&height=180&section=header&text=Hackrband&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 # Welcome to my GitHub
 
