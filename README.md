@@ -24,8 +24,6 @@
 
 [View my repositories →](https://github.com/hackrband?tab=repositories)
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/hackrband/hackrband/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## Credits & License
