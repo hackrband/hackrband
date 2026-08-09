@@ -1,5 +1,3 @@
-# Hackrband
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563eb&height=180&section=header&text=Hackrband&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 ### 💻 Software • Engineering • Technology
@@ -46,5 +44,3 @@ I build software, experiment with hardware, and work on projects across differen
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:111827&height=100&section=footer" width="100%"/>
-
-**© 2026 Hackrband**
