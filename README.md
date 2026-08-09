@@ -17,18 +17,6 @@ Welcome to my GitHub. All of my presented projects are for educational purposes 
 
 ---
 
-## 📂 Projects
-
-🎮 **Games & Interactive Software**
-🌐 **Web Applications**
-🐍 **Python Projects**
-🍓 **Raspberry Pi Projects**
-⚙️ **Engineering Experiments**
-🤖 **Machine Learning**
-🏆 **Codes used in Competitions**
-
----
-
 ## 📈 GitHub
 
 [View my repositories →](https://github.com/hackrband?tab=repositories)
