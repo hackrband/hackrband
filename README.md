@@ -1,5 +1,5 @@
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563eb&height=180&section=header&text=Hackrband&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-
 
 Welcome to my GitHub. All of my presented projects are for educational purposes only.
 ---
@@ -46,3 +46,4 @@ Third-party projects, libraries, assets, and resources belong to their respectiv
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:111827&height=100&section=footer" width="100%"/>
+<div>
