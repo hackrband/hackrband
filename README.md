@@ -31,7 +31,5 @@ Third-party projects, libraries, assets, and resources belong to their respectiv
 
 © 2026 Hackrband
 
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:111827&height=100&section=footer" width="100%"/>
 <div>
