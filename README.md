@@ -1,8 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563eb&height=180&section=header&text=Hackrband&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-# Welcome to my GitHub
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Software+Developer;Engineering+Enthusiast;Python+Developer;Building+Projects+%26+Learning)](https://git.io/typing-svg)
 
 ---
