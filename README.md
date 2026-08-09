@@ -2,18 +2,19 @@
 
 ### 💻 Software • Engineering • Technology
 
-I build software, experiment with hardware, and work on projects across different areas of technology.
-
+Welcome to my GitHub. All of my presented projects are for educational purposes only.
 ---
 
-## 🛠️ Technologies & Interests
+## Language Specialization
 
-| 💻 Software      | ⚙️ Engineering   | 🔌 Hardware  |
-| ---------------- | ---------------- | ------------ |
-| Python           | CAD              | Raspberry Pi |
-| JavaScript       | Electronics      | CrowPi2      |
-| HTML / CSS       | Machine Learning | Arduino      |
-| Game Development | 3D Design        | Sensors      |
+| Language       | Proficiency  |
+| -------------- | ------------ |
+| **Python**     | `██████████` |
+| **Java**       | `████████░░` |
+| **TypeScript** | `████████░░` |
+| **HTML / CSS** | `███████░░░` |
+| **JavaScript** | `███████░░░` |
+| **Kotlin**     | `███░░░░░░░` |
 
 ---
 
@@ -23,9 +24,9 @@ I build software, experiment with hardware, and work on projects across differen
 🌐 **Web Applications**
 🐍 **Python Projects**
 🍓 **Raspberry Pi Projects**
-🔌 **Electronics Projects**
-🤖 **CrowPi2 Projects**
 ⚙️ **Engineering Experiments**
+🤖 **Machine Learning**
+🏆 **Codes used in Competitions**
 
 ---
 
@@ -37,9 +38,13 @@ I build software, experiment with hardware, and work on projects across differen
 
 ---
 
-## 🔭 Currently Building
+## Credits & License
 
-> New projects, experiments, and ideas.
+Projects and content are created by Hackrband unless otherwise stated.
+
+Third-party projects, libraries, assets, and resources belong to their respective creators and are subject to their applicable licenses.
+
+© 2026 Hackrband
 
 ---
 
