@@ -1,6 +1,6 @@
+```python
 # 👋 Hello, Developer!
 
-```python
 open_source = True
 purpose = "Learn. Build. Create."
 ```
