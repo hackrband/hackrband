@@ -3,9 +3,8 @@
 
 def hackrband():
   open_source = True
-  purpose = "Learn. Build. Create."
-  note = "Please respect the credits on all repos."
-
+  purpose = "Learn. Build. Repeat."
+  support = "Hi, I am a young developer hoping to turn this into my lifelong career! Any support means a lot."
   print(open_source, purpose, note)
 
 hackrband()
